@@ -1,3 +1,32 @@
+title: Brian V. Kagimu
+minimal_mistakes_skin: "air" # A clean, professional white/blue skin
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+# Professional Identity
+name: "Brian V. Kagimu"
+bio: "Global Digital Safety Strategist | AI & Cloud Strategy | KAIST MBA"
+location: "Global / Remote"
+links:
+  - label: "LinkedIn"
+    icon: "fab fa-fw fa-linkedin"
+    url: "https://linkedin.com/in/kagimub"
+
+# Stealth Mode SEO
+description: "Professional portfolio of Brian V. Kagimu. Focusing on OSH , AI for industrial safety, and Oracle Cloud governance."
+words_per_minute: 200
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+# Site Settings
+locale: "en-GB"
+include: [".htaccess"]
+exclude: ["Gemfile", "Gemfile.lock", "node_modules", "vendor/cache/", "vendor/bundle/", "vendor/jekyll/", "vendor/ruby/"]
+
 # Stealth Mode: Prevent search engines from indexing the site during build
 defaults:
   - scope:
