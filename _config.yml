@@ -1,0 +1,6 @@
+# Stealth Mode: Prevent search engines from indexing the site during build
+defaults:
+  - scope:
+      path: ""
+    values:
+      noindex: true
