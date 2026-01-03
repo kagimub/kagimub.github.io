@@ -15,10 +15,10 @@ With a background in **Social Entrepreneurship (KAIST MBA)**, I bridge the gap b
 
 My research focuses on the digital transformation of safety critical industries:
 
-*   **AI in Occupational Safety**: 
+*   **AI in Occupational Safety** 
 *   **Climate Finance & ESG**: Developing frameworks for sustainable industrial development that attract international green investment.
 *   **Cloud Governance**: Utilizing Oracle Cloud Infrastructure (OCI) for secure, scalable safety data management and governance.
-*   **Safety Critical Systems**: designing resilient systems for high-stakes environments.
+*   **Safety Critical Systems**
 
 ---
 [Connect with me on LinkedIn](https://linkedin.com/in/kagimub){: .btn .btn--info}
