@@ -26,21 +26,18 @@ I am a **Digital Safety Strategist** utilising technology to modernize industria
   <div class="grid__item">
     <article class="archive__item">
       <h3 class="archive__item-title">Industrial Safety & AI</h3>
-      <p class="archive__item-excerpt">Automating risk assessment and using Computer Vision to detect anomalies in high-stakes environments.</p>
     </article>
   </div>
   
   <div class="grid__item">
     <article class="archive__item">
       <h3 class="archive__item-title">Cloud Governance (OCI)</h3>
-      <p class="archive__item-excerpt">Architecting secure, scalable cloud systems for safety data management on Oracle Cloud Infrastructure.</p>
     </article>
   </div>
   
   <div class="grid__item">
     <article class="archive__item">
       <h3 class="archive__item-title">Climate Finance & ESG</h3>
-      <p class="archive__item-excerpt">Aligning safety operations with international green investment standards and sustainable development.</p>
     </article>
   </div>
 </div>
