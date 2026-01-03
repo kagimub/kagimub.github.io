@@ -19,7 +19,7 @@ Recently, I received the **Star Google Student Ambassador Award** from Google on
 *   The Google Online Marketing Challenge teams
 *   Google Summer of Code 2015 participants
 
-I would like to thank **Mr. Chimdindu Aneke**, **Ms. Jeminatu Alabi-Isama**, and the entire GSA Program team. Also, special thanks to the staff at the Institute of Computer Science, my mother Mrs. Gertrude Kalule, and the entire GSA community in Sub-Saharan Africa.
+I would like to thank **Mr. Chimdindu Aneke**, **Ms. Jeminatu Alabi-Isama**, and the entire GSA Programme team. Also, special thanks to the staff at the Institute of Computer Science, my mother Mrs. Gertrude Kalule, and the entire GSA community in Sub-Saharan Africa.
 
 Most importantly, thank you God for this Christmas gift. As always, don't forget to...
 **Do Cool Things That Matter.**

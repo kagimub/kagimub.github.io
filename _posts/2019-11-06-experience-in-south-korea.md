@@ -17,7 +17,7 @@ I have now been in South Korea for a little over 11 weeks. Today I am going to w
 
 ### Safety and Transport
 
-South Korea, like other developed countries, has a well-organized transport network. Public transport is widely used—buses and the subway are everywhere. Because the majority of the population have smartphones, there are plenty of location-based applications such as **Kakao Map**, **Naver Map**, and **Google Maps** that ease navigation.
+South Korea, like other developed countries, has a well-organised transport network. Public transport is widely used—buses and the subway are everywhere. Because the majority of the population have smartphones, there are plenty of location-based applications such as **Kakao Map**, **Naver Map**, and **Google Maps** that ease navigation.
 
 All you have to do is choose your destination. It will detect your current location and give you choices about which buses or trains can take you there, the time taken, and the fee. You will also need a rechargeable transport card (T-money) to check-in and out.
 

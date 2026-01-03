@@ -14,7 +14,7 @@ author_profile: true
     <em>Aug 2019 - Feb 2021</em> | Grade: 3.75 / 4.30
   </p>
   <ul>
-    <li><strong>Focus</strong>: Intersection of technology, sustainability, and business strategy. Research emphasized green technologies and data-driven insights.</li>
+    <li><strong>Focus</strong>: Intersection of technology, sustainability, and business strategy. Research emphasised utilising green technologies and data-driven insights.</li>
     <li><strong>Societies</strong>: Graduate School of Green Growth, International Student Association.</li>
     <li><strong>Key Coursework</strong>:
       <ul>

@@ -17,7 +17,7 @@ My research focuses on the digital transformation of safety critical industries:
 
 *   **AI in Occupational Safety** 
 *   **Climate Finance & ESG**: Developing frameworks for sustainable industrial development that attract international green investment.
-*   **Cloud Governance**: Utilizing Oracle Cloud Infrastructure (OCI) for secure, scalable safety data management and governance.
+*   **Cloud Governance**: Utilising Oracle Cloud Infrastructure (OCI) for secure, scalable safety data management and governance.
 *   **Safety Critical Systems**
 
 ---

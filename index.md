@@ -13,7 +13,7 @@ header:
 # Building the Future of **Workplace Safety**
 ### Bridging Industrial Safety, Cloud Governance, and AI Strategy.
 
-I am a **Digital Safety Strategist** utilizing technology to modernize industrial safety systems. My work focuses on the intersection of **Artificial Intelligence**, **Oracle Cloud Infrastructure**, and **ESG compliance**.
+I am a **Digital Safety Strategist** utilising technology to modernize industrial safety systems. My work focuses on the intersection of **Artificial Intelligence**, **Oracle Cloud Infrastructure**, and **ESG compliance**.
 
 <div style="display: flex; gap: 1rem; margin-top: 2rem;">
   <a href="/about/" class="btn btn--info">About Me</a>

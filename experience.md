@@ -22,7 +22,7 @@ author_profile: true
 <div class="archive__item">
   <h3 class="archive__item-title">Google Student Ambassador</h3>
   <p class="archive__item-excerpt">
-    <strong>Google Student Ambassador Program</strong> | <em>Mbarara University of Science and Technology, Uganda</em><br>
+    <strong>Google Student Ambassador Programme</strong> | <em>Mbarara University of Science and Technology, Uganda</em><br>
     <em>Aug 2014 - Jul 2015</em>
   </p>
   <ul>

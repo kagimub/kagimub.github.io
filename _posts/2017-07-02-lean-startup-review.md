@@ -18,12 +18,12 @@ It is certainly one of the best business books I have read to date.
 
 ### Startup vs. Business
 
-For starters, a **startup** and a **business** are not exactly the same thing. A startup, unlike a normal business, is set up to solve a need that is still unmet, and its chances of success are often minimal (high uncertainty). Consider Dropbox, which enabled us to store our files online, or WhatsApp, which revolutionized communication.
+For starters, a **startup** and a **business** are not exactly the same thing. A startup, unlike a normal business, is set up to solve a need that is still unmet, and its chances of success are often minimal (high uncertainty). Consider Dropbox, which enabled us to store our files online, or WhatsApp, which revolutionised communication.
 
 A traditional business, however, is often a replica of another money-making entity elsewhere. Uganda is lauded as the most entrepreneurial country in the world, but in the world of scalable technology startups, we still have a long way to go.
 
 ### Continuous Learning
 
-The book emphasizes that the great companies of the 21st century will be those that **continuously learn** from the ground up and keep evolving to create value for their customers.
+The book emphasises that the great companies of the 21st century will be those that **continuously learn** from the ground up and keep evolving to create value for their customers.
 
 In this day and age, continuous learning—building, measuring, learning—is the way to go. I hope you can grab yourself a copy too.
