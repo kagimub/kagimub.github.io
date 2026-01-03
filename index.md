@@ -1,29 +1,55 @@
 ---
-layout: single
+layout: home
 author_profile: true
-title: "Building the Future of Workplace Safety"
-tagline: "Bridging Industrial Safety, Cloud Governance, and AI Strategy."
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80
+  overlay_color: "#0f172a"
+  overlay_image: https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80
+  overlay_filter: 0.6
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  cta_label: "View My Work"
+  cta_url: "/experience/"
 ---
 
-### The Convergence: Safety 
-My focus areas are as follows:
-#### 1. Digital Infrastructure & Cloud Governance
-#### 2. Artificial Intelligence (AI) Strategy
-#### 3. Strategic Leadership (KAIST MBA)
-Applying global business strategy and **Climate Finance (Frankfurt School)** principles to align safety operations with ESG goals and international investment standards.
+# Building the Future of **Workplace Safety**
+### Bridging Industrial Safety, Cloud Governance, and AI Strategy.
 
----
+I am a **Digital Safety Strategist** utilizing technology to modernize industrial safety systems. My work focuses on the intersection of **Artificial Intelligence**, **Oracle Cloud Infrastructure**, and **ESG compliance**.
 
-### Key Credentials
-*   **MBA in Social Entrepreneurship** | KAIST, South Korea
-*   **NEBOSH International General Certificate** | Occupational Safety
-*   **Oracle Cloud Infrastructure 2025** | Foundations Associate
-*   **Generative AI Nanodegree** | Udacity
+<div style="display: flex; gap: 1rem; margin-top: 2rem;">
+  <a href="/about/" class="btn btn--info">About Me</a>
+  <a href="/education/" class="btn btn--inverse">Credentials</a>
+</div>
 
----
+## 🎯 Focus Areas
 
-[View Full Technical README on GitHub](https://github.com/kagimub/kagimub.github.io/blob/main/README.md)
+<div class="grid__wrapper">
+  <div class="grid__item">
+    <article class="archive__item">
+      <h3 class="archive__item-title">Industrial Safety & AI</h3>
+      <p class="archive__item-excerpt">Automating risk assessment and using Computer Vision to detect anomalies in high-stakes environments.</p>
+    </article>
+  </div>
+  
+  <div class="grid__item">
+    <article class="archive__item">
+      <h3 class="archive__item-title">Cloud Governance (OCI)</h3>
+      <p class="archive__item-excerpt">Architecting secure, scalable cloud systems for safety data management on Oracle Cloud Infrastructure.</p>
+    </article>
+  </div>
+  
+  <div class="grid__item">
+    <article class="archive__item">
+      <h3 class="archive__item-title">Climate Finance & ESG</h3>
+      <p class="archive__item-excerpt">Aligning safety operations with international green investment standards and sustainable development.</p>
+    </article>
+  </div>
+</div>
+
+## 🛠️ Technical Stack
+*   **Languages**: Python, JavaScript (MERN)
+*   **Cloud**: Oracle Cloud Infrastructure (OCI), AWS
+*   **AI/ML**: TensorFlow, OpenAI, Generative AI
+*   **Safety**: NEBOSH IGC, ISO 45001
+
+[View Research Interests](/about/#research-interests){: .btn .btn--inverse}
+

@@ -1,5 +1,6 @@
 title: Brian V. Kagimu
-minimal_mistakes_skin: "air" # A clean, professional white/blue skin
+minimal_mistakes_skin: "default" # Overridden by assets/css/main.scss
+
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 # Professional Identity
