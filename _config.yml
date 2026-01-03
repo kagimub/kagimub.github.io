@@ -11,6 +11,15 @@ links:
   - label: "LinkedIn"
     icon: "fab fa-fw fa-linkedin"
     url: "https://linkedin.com/in/kagimub"
+  - label: "Medium"
+    icon: "fab fa-fw fa-medium"
+    url: "https://medium.com/@kagimub"
+  - label: "GitHub"
+    icon: "fab fa-fw fa-github"
+    url: "https://github.com/kagimub"
+  - label: "X (Twitter)"
+    icon: "fab fa-fw fa-twitter"
+    url: "https://x.com/kagimub"
 
 # Stealth Mode SEO
 description: "Professional portfolio of Brian V. Kagimu. Focusing on OSH , AI for industrial safety, and Oracle Cloud governance."
