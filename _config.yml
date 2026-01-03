@@ -33,3 +33,6 @@ defaults:
       path: ""
     values:
       noindex: true
+      layout: single
+      author_profile: true
+
