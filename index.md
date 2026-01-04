@@ -45,8 +45,8 @@ I am a **Digital Safety Strategist** utilising technology to modernize industria
 ## 🛠️ Technical Stack
 *   **Languages**: Python, JavaScript
 *   **Cloud**: Oracle Cloud Infrastructure (OCI), AWS
-*   **AI/ML**: TensorFlow, OpenAI, Generative AI
-*   **Safety**: NEBOSH IGC, ISO 45001
+*   **AI/ML**: TensorFlow, Generative AI
+*   **Safety**: NEBOSH IGC
 
 [View Research Interests](/about/#research-interests){: .btn .btn--inverse}
 

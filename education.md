@@ -15,15 +15,6 @@ author_profile: true
   </p>
   <ul>
     <li><strong>Focus</strong>: Intersection of technology, sustainability, and business strategy. Research emphasised utilising green technologies and data-driven insights.</li>
-    <li><strong>Societies</strong>: Graduate School of Green Growth, International Student Association.</li>
-    <li><strong>Key Coursework</strong>:
-      <ul>
-        <li>Green Technologies & Sustainability Strategy</li>
-        <li>Business Analytics & Data-Driven Decision Making</li>
-        <li>Global Supply Chain Management</li>
-        <li>Social Innovation & Venture Philanthropy</li>
-      </ul>
-    </li>
   </ul>
 </div>
 
@@ -34,7 +25,7 @@ author_profile: true
     <em>Aug 2011 - Jan 2016</em>
   </p>
   <ul>
-    <li><strong>Honors</strong>: Class President (BCE IV) | 2014/2015, Class President (BSc. Computer Engineering) | 2012/2013, Machines Ministry Leader | St. Luke’s Chapel MUST | 2012/2013, Android Developers Club.</li>
+    <li><strong>Activities</strong>: Class President (BCE IV) | 2014/2015, Class President (BSc. Computer Engineering) | 2012/2013, Machines Ministry Leader | St. Luke’s Chapel MUST | 2012/2013, Android Developers Club.</li>
     <li><strong>Thesis</strong>: Focused on hardware engineering and systems design for localised technical solutions.</li>
     <li>Rigorous training in hardware engineering, systems design, and software development.</li>
   </ul>
