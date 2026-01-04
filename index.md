@@ -31,7 +31,7 @@ I am a **Digital Safety Strategist** utilising technology to modernize industria
   
   <div class="grid__item">
     <article class="archive__item">
-      <h3 class="archive__item-title">Cloud Governance (OCI)</h3>
+      <h3 class="archive__item-title">Cloud Security & Governance</h3>
     </article>
   </div>
   
