@@ -34,7 +34,7 @@ author_profile: true
     <em>Aug 2011 - Jan 2016</em>
   </p>
   <ul>
-    <li><strong>Honors</strong>: Class President (2011 – 2013), Android Developers Club.</li>
+    <li><strong>Honors</strong>: Class President (BCE IV) | 2014/2015, Class President (BSc. Computer Engineering) | 2012/2013, Machines Ministry Leader | St. Luke’s Chapel MUST | 2012/2013, Android Developers Club.</li>
     <li><strong>Thesis</strong>: Focused on hardware engineering and systems design for localised technical solutions.</li>
     <li>Rigorous training in hardware engineering, systems design, and software development.</li>
   </ul>
@@ -44,6 +44,23 @@ author_profile: true
 
 ## Professional Certifications
 
+### Cybersecurity
+*   **Certificate of Cloud Security Knowledge (CCSK v4.1)**
+    *   *Cloud Security Alliance* | Issued Aug 2023
+    *   *Skills*: Cloud Governance, Risk Management, Security Architecture.
+*   **Network Defense**
+    *   *Cisco* | Issued Jun 2023
+    *   *Skills*: Network Security, Threat Analysis.
+*   **Endpoint Security**
+    *   *Cisco* | Issued Jun 2023
+    *   *Skills*: Endpoint Protection, Malware Analysis.
+*   **Cybersecurity Essentials**
+    *   *Cisco* | Issued May 2023
+    *   *Skills*: Operational Security, Infrastructure Security.
+*   **Introduction to Cybersecurity**
+    *   *Cisco* | Issued May 2023
+    *   *Skills*: Security Fundamentals.
+
 ### Cloud & AI
 *   **Oracle Cloud Infrastructure 2025 Certified Foundations Associate**
     *   *Oracle* | Issued Oct 2025 (Expires Oct 2027)
@@ -51,9 +68,21 @@ author_profile: true
 *   **Foundation of Generative AI**
     *   *Udacity* | Issued Feb 2025
     *   *Skills*: Artificial Intelligence (AI), LLMs.
+*   **AI Programming with Python**
+    *   *Udacity/Bertelsmann* | Completed Dec 2023
+    *   *Skills*: Python, Machine Learning, Neural Networks.
+*   **Introduction to Cloud Computing**
+    *   *IBM/Coursera* | Issued Mar 2023
+    *   *Skills*: Cloud Service Models, Virtualization.
 *   **Leading with Artificial Intelligence Lab**
     *   *ITCILO* | Issued Nov 2020
     *   *Skills*: Human Centered AI, Machine Learning, Open Innovation.
+*   **AI For Everyone**
+    *   *DeepLearning.AI* | Issued Jun 2019
+    *   *Skills*: AI Strategy, Workflow of Machine Learning Projects.
+*   **How Google does Machine Learning**
+    *   *Google Cloud* | Issued Dec 2018
+    *   *Skills*: Machine Learning Strategies, Production ML Systems.
 *   **Data Science for Business Innovation**
     *   *Coursera* | Issued Apr 2022
     *   *Skills*: Business Analytics, Big Data.
@@ -62,9 +91,17 @@ author_profile: true
 *   **NEBOSH International General Certificate in Occupational Health and Safety**
     *   *NEBOSH* | Issued May 2025
     *   *Skills*: Industrial Safety, Risk Assessment, Hazard Identification.
-*   **Cyber Threat Management**
-    *   *Cisco* | Issued Jun 2023
-    *   *Skills*: Risk Management, Cybersecurity.
+
+### Leadership & Research
+*   **Understanding Research Methods**
+    *   *University of London* | Issued Apr 2022
+    *   *Skills*: Data Analysis, Research Ethics, Academic Writing.
+*   **Building Your Leadership Skills**
+    *   *HEC Paris* | Issued May 2017
+    *   *Skills*: Self Awareness, Leadership Styles.
+*   **Servant Leadership**
+    *   *YALI Network* | Issued Sept 2016
+    *   *Skills*: Civic Leadership, Service-Leadership.
 
 ### Finance & Social Impact
 *   **Certified Expert in Financing NDCs**

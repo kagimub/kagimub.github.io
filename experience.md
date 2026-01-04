@@ -60,3 +60,15 @@ author_profile: true
     <li>Utilized CAD tools for hardware prototyping and circuit design.</li>
   </ul>
 </div>
+
+<div class="archive__item">
+  <h3 class="archive__item-title">Information Technology Intern</h3>
+  <p class="archive__item-excerpt">
+    <strong>Mulago National Referral Hospital</strong> | <em>Uganda</em><br>
+    <em>Apr 2013 - Jun 2013</em>
+  </p>
+  <ul>
+    <li>Deployed to the ICT department for Industrial Training.</li>
+    <li>Provided technical support and supervision within the national referral hospital's ICT infrastructure.</li>
+  </ul>
+</div>
